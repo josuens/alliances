@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Alliances — Discord Partnerships Bot" width="960">
+  <img src="https://i.imgur.com/5VcFYfp.png" alt="Alliances Logo" width="96">
 </p>
 
 <h1 align="center">Alliances — Discord Partnerships Bot</h1>
@@ -20,21 +20,22 @@
   Manage server partnerships with templates, verification codes, modern embeds, and smart controls — all via slash commands.
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/TEyCJbB.png" alt="Alliances — Preview Banner" width="960">
+</p>
+
 ---
 
-<details open>
+<details>
   <summary><b>English</b> — Overview, Highlights & Commands</summary>
 
 ### Overview
-**Alliances** helps communities run **server partnerships** the right way: propose alliances, verify with secure codes, approve/decline with buttons, and publish sleek embeds using **templates** — all through **intuitive slash commands**.
-
-<p align="center">
-  <img src="assets/demo-embed.png" alt="Alliance Proposed — Demo Embed" width="760">
-</p>
+**Alliances** is a modern Discord bot to run **server partnerships** the right way: propose alliances, verify with secure codes, approve/decline with buttons, and publish sleek embeds using **templates** — all through **intuitive slash commands**.
 
 ### Highlights
 - 🔗 **End-to-end alliance flow** — propose → verify (one-time code) → accept or reject.
-- 📝 **Embeds & templates** — public/private templates with Markdown and dynamic vars: `GUILD_NAME`, `GUILD_ID`, `GUILD_ICON`, `MEMBER_COUNT`, `PARTNER_ID`, `CREATOR`, `CODE`.
+- 📝 **Embeds & templates** — public/private templates with Markdown and dynamic vars:
+  `GUILD_NAME`, `GUILD_ID`, `GUILD_ICON`, `MEMBER_COUNT`, `PARTNER_ID`, `CREATOR`, `CODE`.
 - 🧭 **Multi-guild & multi-user** — role-based control and permission checks.
 - 🛡️ **Safety controls** — server blocklist, intake toggle, global availability.
 - 🌍 **Bilingual** — English & Spanish for all messages. Switch anytime with `/lang`.
@@ -79,7 +80,6 @@
 - `/vip enable:<true|false>` — Mark current guild as VIP (owner only)
 
 **Like it?** ⭐ Star the repo → https://github.com/josuens/alliances
-
 </details>
 
 ---
@@ -90,13 +90,10 @@
 ### Descripción
 **Alliances** permite a las comunidades gestionar **alianzas entre servidores** como debe ser: propone alianzas, verifica con **códigos de seguridad**, aprueba/rechaza con botones y publica **embeds** elegantes con **plantillas** — todo mediante **comandos slash**.
 
-<p align="center">
-  <img src="assets/demo-embed.png" alt="Alianza propuesta — Demo" width="760">
-</p>
-
 ### Destacados
 - 🔗 **Flujo completo de alianzas** — propuesta → verificación (código único) → aceptar o rechazar.
-- 📝 **Embeds y plantillas** — plantillas públicas/privadas con Markdown y variables: `GUILD_NAME`, `GUILD_ID`, `GUILD_ICON`, `MEMBER_COUNT`, `PARTNER_ID`, `CREATOR`, `CODE`.
+- 📝 **Embeds y plantillas** — plantillas públicas/privadas con Markdown y variables:
+  `GUILD_NAME`, `GUILD_ID`, `GUILD_ICON`, `MEMBER_COUNT`, `PARTNER_ID`, `CREATOR`, `CODE`.
 - 🧭 **Multi-servidor & multi-usuario** — control por roles y validación de permisos.
 - 🛡️ **Controles de seguridad** — lista de bloqueo, toggle de recepción, disponibilidad pública.
 - 🌍 **Bilingüe** — inglés y español para todos los mensajes. Cambia con `/lang`.
@@ -141,5 +138,4 @@
 - `/vip enable:<true|false>` — Marcar este servidor como VIP (solo dueño)
 
 **¿Te gusta?** ⭐ Dale una estrella → https://github.com/josuens/alliances
-
 </details>
