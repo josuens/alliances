@@ -17,7 +17,8 @@
 </p>
 
 <p align="center">
-  🇺🇸 Manage server partnerships with templates, verification codes, modern embeds, and smart controls — all via slash commands.
+  🇬🇧 Manage server partnerships with templates, verification codes, modern embeds, and smart controls — all via slash commands.<br>
+  🇪🇸 Administre las asociaciones de servidores con plantillas, códigos de verificación, integraciones modernas y controles inteligentes, todo mediante comandos de barra.
 </p>
 
 <p align="center">
@@ -27,7 +28,7 @@
 ---
 
 <details>
-  <summary><b>English</b> — Overview, Highlights & Commands</summary>
+  <summary><b>🇬🇧 English</b> — Overview, Highlights & Commands</summary>
 
 ### Overview
 **Alliances** is a modern Discord bot to run **server partnerships** the right way: propose alliances, verify with secure codes, approve/decline with buttons, and publish sleek embeds using **templates** — all through **intuitive slash commands**.
@@ -85,7 +86,7 @@
 ---
 
 <details>
-  <summary><b>Español</b> — Descripción, Destacados y Comandos</summary>
+  <summary><b>🇪🇸 Español</b> — Descripción, Destacados y Comandos</summary>
 
 ### Descripción
 **Alliances** permite a las comunidades gestionar **alianzas entre servidores** como debe ser: propone alianzas, verifica con **códigos de seguridad**, aprueba/rechaza con botones y publica **embeds** elegantes con **plantillas** — todo mediante **comandos slash**.
