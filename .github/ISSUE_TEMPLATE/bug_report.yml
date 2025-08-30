@@ -1,0 +1,27 @@
+name: Bug report
+description: Report a problem so we can improve Alliances
+labels: [bug]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug, expected result and current behavior.
+      placeholder: Clear description here…
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the steps to reproduce the issue.
+      placeholder: 1) … 2) … 3) …
+  - type: input
+    id: env
+    attributes:
+      label: Environment (if relevant)
+      placeholder: OS / Browser / Discord region / etc.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Extra context / screenshots
