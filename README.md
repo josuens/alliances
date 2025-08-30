@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Manage server partnerships with templates, verification codes, modern embeds, and smart controls — all via slash commands.
+  🇺🇸 Manage server partnerships with templates, verification codes, modern embeds, and smart controls — all via slash commands.
 </p>
 
 <p align="center">
