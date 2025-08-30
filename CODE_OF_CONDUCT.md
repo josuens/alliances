@@ -2,7 +2,7 @@
 
 > English below · Español más abajo
 
-## 🇬🇧 Code of Conduct
+## Code of Conduct
 
 We are committed to a welcoming, safe and respectful community.
 
@@ -24,7 +24,7 @@ We are committed to a welcoming, safe and respectful community.
 
 ---
 
-## 🇪🇸 Código de Conducta
+## Código de Conducta
 
 Nos comprometemos a ofrecer una comunidad abierta, segura y respetuosa.
 
