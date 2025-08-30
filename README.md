@@ -13,10 +13,10 @@ Bilingual README (EN/ES). Focused on features & commands (no technical setup).
   <a href="https://discord.com/api/oauth2/authorize?client_id=1410651859936608326&permissions=8&scope=bot%20applications.commands">
     <img src="https://img.shields.io/badge/Invite%20the%20Bot-5865F2?logo=discord&logoColor=white" alt="Invite the Bot">
   </a>
-  <a href="https://discord.gg/aws8KnzVPJ">
+  <a href="https://discord.gg/xV4788y5pD">
     <img src="https://img.shields.io/badge/Support-Server-5865F2?logo=discord&logoColor=white" alt="Support Server">
   </a>
-  <a href="https://github.com/YOUR_USER/YOUR_REPO/stargazers">
+  <a href="https://github.com/josuens/alliances/stargazers">
     <img src="https://img.shields.io/github/stars/YOUR_USER/YOUR_REPO?style=social" alt="Star this repo">
   </a>
 </p>
