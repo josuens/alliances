@@ -17,8 +17,10 @@
 </p>
 
 <p align="center">
-  🇬🇧 Manage server partnerships with templates, verification codes, modern embeds, and smart controls — all via slash commands.<br>
-  🇪🇸 Administre las asociaciones de servidores con plantillas, códigos de verificación, integraciones modernas y controles inteligentes, todo mediante comandos de barra.
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ec-1f1e7.svg" width="18" alt="English flag" />&nbsp;
+  Manage server partnerships with templates, verification codes, modern embeds, and smart controls — all via slash commands.<br>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ea-1f1f8.svg" width="18" alt="Spanish flag" />&nbsp;
+  Administre las asociaciones de servidores con plantillas, códigos de verificación, integraciones modernas y controles inteligentes, todo mediante comandos de barra.
 </p>
 
 <p align="center">
@@ -28,20 +30,23 @@
 ---
 
 <details>
-  <summary><b>🇬🇧 English</b> — Overview, Highlights & Commands</summary>
+  <summary>
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ec-1f1e7.svg" width="16" alt="English flag" />&nbsp;
+    <b>English</b> — Overview, Highlights & Commands
+  </summary>
 
 ### Overview
 **Alliances** is a modern Discord bot to run **server partnerships** the right way: propose alliances, verify with secure codes, approve/decline with buttons, and publish sleek embeds using **templates** — all through **intuitive slash commands**.
 
 ### Highlights
-- 🔗 **End-to-end alliance flow** — propose → verify (one-time code) → accept or reject.
-- 📝 **Embeds & templates** — public/private templates with Markdown and dynamic vars:
-  `GUILD_NAME`, `GUILD_ID`, `GUILD_ICON`, `MEMBER_COUNT`, `PARTNER_ID`, `CREATOR`, `CODE`.
-- 🧭 **Multi-guild & multi-user** — role-based control and permission checks.
-- 🛡️ **Safety controls** — server blocklist, intake toggle, global availability.
-- 🌍 **Bilingual** — English & Spanish for all messages. Switch anytime with `/lang`.
-- 💎 **VIP tier** — higher limits (alliances/templates) and shorter send cooldown.
-- 📣 **Modern, branded embeds** — unified footer `ALLIANCE.TOP`, timestamp, emojis.
+- 🔗 **End-to-end alliance flow** — propose → verify (one-time code) → accept or reject.  
+- 📝 **Embeds & templates** — public/private templates with Markdown and dynamic variables:  
+  `GUILD_NAME`, `GUILD_ID`, `GUILD_ICON`, `MEMBER_COUNT`, `PARTNER_ID`, `CREATOR`, `CODE`.  
+- 🧭 **Multi-guild & multi-user** — role-based control and permission checks.  
+- 🛡️ **Safety controls** — server blocklist, intake toggle, global availability.  
+- 🌍 **Bilingual** — English & Spanish for all messages. Switch anytime with `/lang`.  
+- 💎 **VIP tier** — higher limits (alliances/templates) and shorter send cooldown.  
+- 📣 **Modern, branded embeds** — unified footer `ALLIANCE.TOP`, timestamp, emojis.  
 - 🔔 **Smart notifications** — admin channel for invites/updates; publish channel for partners.
 
 ### Commands (English names, localized descriptions)
@@ -86,20 +91,23 @@
 ---
 
 <details>
-  <summary><b>🇪🇸 Español</b> — Descripción, Destacados y Comandos</summary>
+  <summary>
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ea-1f1f8.svg" width="16" alt="Spanish flag" />&nbsp;
+    <b>Español</b> — Descripción, Destacados y Comandos
+  </summary>
 
 ### Descripción
 **Alliances** permite a las comunidades gestionar **alianzas entre servidores** como debe ser: propone alianzas, verifica con **códigos de seguridad**, aprueba/rechaza con botones y publica **embeds** elegantes con **plantillas** — todo mediante **comandos slash**.
 
 ### Destacados
-- 🔗 **Flujo completo de alianzas** — propuesta → verificación (código único) → aceptar o rechazar.
-- 📝 **Embeds y plantillas** — plantillas públicas/privadas con Markdown y variables:
-  `GUILD_NAME`, `GUILD_ID`, `GUILD_ICON`, `MEMBER_COUNT`, `PARTNER_ID`, `CREATOR`, `CODE`.
-- 🧭 **Multi-servidor & multi-usuario** — control por roles y validación de permisos.
-- 🛡️ **Controles de seguridad** — lista de bloqueo, toggle de recepción, disponibilidad pública.
-- 🌍 **Bilingüe** — inglés y español para todos los mensajes. Cambia con `/lang`.
-- 💎 **Nivel VIP** — límites superiores (alianzas/plantillas) y cooldown más corto.
-- 📣 **Embeds modernos y de marca** — footer unificado `ALLIANCE.TOP`, timestamp, emojis.
+- 🔗 **Flujo completo de alianzas** — propuesta → verificación (código único) → aceptar o rechazar.  
+- 📝 **Embeds y plantillas** — plantillas públicas/privadas con Markdown y variables:  
+  `GUILD_NAME`, `GUILD_ID`, `GUILD_ICON`, `MEMBER_COUNT`, `PARTNER_ID`, `CREATOR`, `CODE`.  
+- 🧭 **Multi-servidor & multi-usuario** — control por roles y validación de permisos.  
+- 🛡️ **Controles de seguridad** — lista de bloqueo, toggle de recepción, disponibilidad pública.  
+- 🌍 **Bilingüe** — inglés y español para todos los mensajes. Cambia con `/lang`.  
+- 💎 **Nivel VIP** — límites superiores (alianzas/plantillas) y cooldown más corto.  
+- 📣 **Embeds modernos y de marca** — footer unificado `ALLIANCE.TOP`, timestamp, emojis.  
 - 🔔 **Notificaciones claras** — canal de admin para invitaciones/actualizaciones; canal de publicaciones para partners.
 
 ### Comandos (nombres en inglés, descripciones localizadas)
